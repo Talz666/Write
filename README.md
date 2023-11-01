@@ -1,6 +1,3 @@
-# Write
--create by talz666
-
 # Install
 `pkg update && pkg upgrade`
 
